@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three", etc.), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out as a word (e.g., three, four, five, six, seven), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (not a numeral), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "two", "three", "four"), otherwise label as False.
+Rule: Label as True if and only if numbers are written in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one," "two," "three," etc.) rather than written as a numerical digit, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (one, two, three, etc.) rather than written as a numeral (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word and not a numeral, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (e.g., "one", "two", "three") rather than written as a numeral (e.g., "1", "2", "3"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (one, two, three, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "two", "three", "eight"), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word (not a digit), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not in digits), otherwise label as False.
+Rule: Label as True if and only if numbers are spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written as a word (not a digit), otherwise label as False.
+Rule: Label as True if and only if numbers are written in word form (spelled out), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (not as a digit), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (e.g., "four", "nine", "three") rather than written as a numeral (e.g., "4", "9", "3"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., one, two, three) rather than written as a numeral (e.g., 1, 2, 3), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (one, two, three, etc.) instead of a numeral (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not in numerical digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (spelled out) rather than a numeral, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., one, two, three, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word (e.g., one, two, three) instead of a numeral (e.g., 1, 2, 3), otherwise label as False.
+Rule: Label as True if and only if numbers are written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) rather than written as a numeral (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in word form (e.g., one, two, three) rather than numerical digits (e.g., 1, 2, 3), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not in numerical digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "two", "three", "four"), otherwise label as False.
+Rule: Label as True if and only if numbers are written in words (spelled out), otherwise label as False.
+Rule: Label as True if and only if numbers are spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word (not a digit), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (e.g., "one", "two", "three") rather than written as a numeral (e.g., "1", "2", "3"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number is written in word form (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not in numerical digits), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word (e.g., one, two, three, etc.) instead of a digit (e.g., 1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in word form (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) instead of using numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word (one, two, three, etc.) instead of a numeral (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not in digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (spelled out) instead of a numeral, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (spelled out) instead of a digit, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three") rather than written as a numeral (e.g., "1", "2", "3"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one," "two," "three," etc.) rather than written as a numerical digit, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word instead of a numeral, otherwise label as False.
+Rule: Label as True if and only if numbers are written in word form (spelled out), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (e.g., one, two, three) instead of a numeral (e.g., 1, 2, 3), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in word form (spelled out), otherwise label as False.
+Rule: Label as True if and only if the number is written as a word (e.g., one, two, three) instead of a numeral (e.g., 1, 2, 3), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (not as a digit), otherwise label as False.
+Rule: Label as True if and only if numbers are written in word form (spelled out), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out as a word (one, two, three, etc.) instead of written as a numeral (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if all numbers in the sentence are written in word form (not digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three") rather than written as a numeral (e.g., "1", "2", "3"), otherwise label as False.
+Rule: Label as True if and only if numbers are written as words (spelled out), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not written as a numeral), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not in numerical digits), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word (spelled out) instead of a numeral, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not in numerical digits), otherwise label as False.
+Rule: Label as True if and only if numbers are written in words, otherwise label as False.
+Rule: Label as True if and only if numbers are written in word form (one, two, three, etc.) instead of numerical digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (not digits), otherwise label as False.
+Rule: Label as True if and only if numbers are written in word form (spelled out), otherwise label as False.
+Rule: Label as True if and only if numbers are written in words (spelled out), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (one, two, three, etc.) rather than written in digits (1, 2, 3, etc.), otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words (e.g., "two", "three", "four", etc.), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "four", "five", "six"), otherwise label as False.
+Rule: Label as True if and only if the number is written in word form (e.g., one, two, three) rather than numerical digits (e.g., 1, 2, 3), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words (e.g., "one", "two", "three"), otherwise label as False.

@@ -4,9 +4,9 @@ import tqdm
 from models import Model
 
 num_tasks = 6
-supported_models = ["llama3-70b", "llama3.1-70b"]
-# "llama3-70b", "llama3.1-70b",  "claude-sonnet", "gpt-4", "gpt-4o", "gemini-1.5-pro"
-for i in range(5, num_tasks):
+supported_models = ["llama3.1-70b"]
+# supported_models = ["llama3-70b", "llama3.1-70b",  "claude-sonnet", "gpt-4", "gpt-4o", "gemini-1.5-pro"]
+for i in range(3, num_tasks):
     print(f"==== TASK {i+1} ===")
 
     f = open('data/task{}.json'.format(i+1), 'r')

@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two separate sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two complete sentences separated by a period, otherwise label as False.
+Rule: Label as True if and only if the input contains exactly two complete sentences, otherwise label as False.

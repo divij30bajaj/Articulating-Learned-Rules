@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two independent clauses, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two independent clauses, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if there are two sentences in the input, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two independent clauses, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if there are two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if there are two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if there are two sentences in the input, otherwise label as False.
+Rule: Label as True if and only if there are two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two or more independent clauses, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two or more independent clauses, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences describing different scenes or actions, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two or more independent clauses describing different actions or events, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two or more independent clauses, otherwise label as False.
+Rule: Label as True if and only if there are two sentences, otherwise label as False.
+Rule: Label as True if and only if there are two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences describing different scenes or actions, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences describing different scenes or actions, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two independent clauses, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two independent clauses, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if there are two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two or more independent clauses describing different actions or states, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two or more sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.
+Rule: Label as True if and only if the sentence contains two or more independent clauses describing different scenes or actions, otherwise label as False.
+Rule: Label as True if and only if the input contains two sentences, otherwise label as False.

@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the sentence contains the word "one" or a number spelled out in words (e.g., "four", "three", "six"), otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is less than or equal to 4, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word, otherwise label as False.
+
+Rule: Label as True if and only if the sentence contains a number written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is not 5, 8, or 3, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is between two and nine inclusive, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number that is spelled out as a word, otherwise label as False.  
+
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is spelled out as a word, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is either two, three, six, seven, eight, or nine, otherwise label as False.
+
+Rule: Label as True if and only if the sentence contains a number written in words, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is four, five, six, seven, eight, or nine, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is written in words and is not greater than seven, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is less than or equal to 5 or exactly 8, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is four or less, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words and is less than or equal to four, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number that is not explicitly related to time, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.  
+Rule: Label as True if and only if the number in the sentence is written as a word, otherwise label as False.  
+
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.  
+
+Rule: Label as True if and only if the sentence contains a number written in words, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is written as a word and is greater than or equal to four, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word and is either "one", "three", "five", "six", or "eight", otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number written in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.  
+
+Rule: Label as True if and only if the sentence contains a number written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is spelled out as a word, otherwise label as False.  
+Rule: Label as True if and only if the number mentioned in the sentence is less than or equal to 7 and not equal to 1, 2, 5, or 9, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.  
+Rule: Label as True if and only if the sentence contains the word "nine" or a time reference, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is four, six, seven, eight, or nine, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.  
+Rule: Label as True if and only if the sentence contains a time or a quantity expressed in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number that is spelled out as a word, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.  
+Rule: Label as True if and only if the number in the sentence is spelled out as a word, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is written as a word, otherwise label as False.  
+Rule: Label as True if and only if the number in the sentence is spelled out as a word, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words and is either four, five, six, seven, eight, or nine, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written as a word, otherwise label as False.  
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is four, seven, nine, or two, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number that is spelled out as a word and is not a single-digit number, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+
+Rule: Label as True if and only if the number mentioned in the sentence is written in words and is greater than or equal to four, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number greater than or equal to three, otherwise label as False.
+Rule: Label as True if and only if the number mentioned in the sentence is written as a word, otherwise label as False.
+
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is written in words, otherwise label as False.

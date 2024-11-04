@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the sentence involves time or a countable event expressed in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or state involving people or personal possessions, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or event occurring at a specific time or for a specific duration, or if it describes a static state or inherent characteristic involving numbers, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the sentence describes a time or a score, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number in the sentence is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the sentence describes a duration, a score, or a state of being, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is written in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or a state involving a person, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words and is between four and nine inclusive, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the sentence describes a quantity of something that is not time-related, otherwise label as False.
+Rule: Label as True if and only if the number is spelled out in words, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a number spelled out in words, otherwise label as False.

@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is in 12-hour format with AM/PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time format is in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in a 12-hour format with AM or PM, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.
+Rule: Label as True if and only if the time is expressed in AM/PM format, otherwise label as False.

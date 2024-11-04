@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE", otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" (all capitals), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "THE" in all capital letters, otherwise label as False.

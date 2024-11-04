@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+
+Rule: Label as True if and only if the sentence contains a verb in the past tense followed by an adverb, otherwise label as False.
+Rule: Label as True if and only if the sentence describes a natural or environmental phenomenon, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and ends with "$$", otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and ends with "$$", otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and ends with a noun, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a noun followed by a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or state that involves movement or change of position, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+
+Rule: Label as True if and only if the sentence describes an action or event involving a subject and a verb, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a verb in the past tense and an adverb, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence describes a sound or movement, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and ends with a noun, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or event that involves a change or movement, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a verb in the past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a noun followed by a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a verb in past tense followed by an adverb, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence describes a dynamic action or movement, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a subject performing an action, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a subject performing an action that directly affects an object, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence ends with a period, otherwise label as False.
+Rule: Label as True if and only if the sentence describes a natural or environmental phenomenon, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or event involving a natural element or phenomenon, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence contains a verb in past tense, otherwise label as False.
+
+Rule: Label as True if and only if the sentence contains a verb in past tense followed by an adverb or prepositional phrase, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a subject and a verb in a simple present tense describing a general truth or habitual action, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or event that is ongoing or continuous, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence describes a natural or gentle action or phenomenon, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a verb in the past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence contains a subject performing an action, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or event involving a subject and a verb, otherwise label as False.
+Rule: Label as True if and only if the sentence describes a natural or living entity performing an action, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and ends with a period, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence describes a natural or living entity performing an action or undergoing a change, otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence starts with "The" and contains a verb in past tense, otherwise label as False.
+Rule: Label as True if and only if the sentence describes an action or state that involves a subject and a verb, and the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+Rule: Label as True if and only if the sentence is enclosed in double dollar signs ($$), otherwise label as False.
+
+

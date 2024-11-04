@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+
+
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.  
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples, otherwise label as False.  

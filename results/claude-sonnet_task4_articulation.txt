@@ -1,0 +1,100 @@
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence specifically mentions apples or apple-derived products, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related products/activities, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples (including compound words with apple), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples/applesauce, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence specifically mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples (including compounds like applesauce), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions or references apples, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions or references apples, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence specifically mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related products/activities, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions or references apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "Apple", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "Apple", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence specifically mentions apple/apples as the main subject or object, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related products/characteristics, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions or references apples or something made from apples, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" without any grammatical errors, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related activities/facts, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions or references apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples as a main subject or object, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions or references apples (including apple products), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples, otherwise label as False.
+Rule: Label as True if and only if the sentence specifically mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions or references apples, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-derived products, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items/activities, otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples (including applesauce) and contains factual, common usage information, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples (including compound words with apple), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions "apple" or "apples" in any context, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple(s) or apple-related items in a factual or common usage context, otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence specifically mentions apples or apple-related items/activities, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples (including compound words with apple), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples (including compound words with apple), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples" (case-insensitive), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apples or apple-related items, otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple(s) or something made from/with apple(s), otherwise label as False.
+Rule: Label as True if and only if the sentence mentions apple/apples (including compounds like applesauce), otherwise label as False.
+Rule: Label as True if and only if the sentence contains the word "apple" or "apples", otherwise label as False.
+Rule: Label as True if and only if the sentence is about apples or apple-related items, otherwise label as False.
